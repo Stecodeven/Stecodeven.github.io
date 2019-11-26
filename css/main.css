@@ -805,9 +805,12 @@ body.dragging .nav-pointer {
   border-right: none;
 }
 .profile-card .profile-bio {
+  font-family: Lora;
+  font-weight: bold;
   width: auto;
   height: auto;
-  padding: 55px 20px 35px;
+  padding: 35px 25px 35px;
+  /*padding: 55px 25px 35px*/
   display: block;
   float: none;
 }
@@ -824,6 +827,8 @@ body.dragging .nav-pointer {
     -webkit-border-radius: 4px;
   }
   100% {
+    /*width: 260px;
+    height: 420px;*/
     width: 260px;
     height: 420px;
     background: #FFFFFF;
@@ -838,7 +843,8 @@ body.dragging .nav-pointer {
     border-radius: 4px;
   }
   100% {
-    width: 260px;
+    width: 300px;
+    /*260px before*/
     height: 420px;
     background: #FFFFFF;
     border-radius: 4px;
