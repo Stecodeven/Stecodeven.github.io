@@ -1,5 +1,7 @@
 (function(){
-
+// 
+// 
+// 
   Renderer = function(canvas){
     canvas = $(canvas).get(0)
     var ctx = canvas.getContext("2d")
