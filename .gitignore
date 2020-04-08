@@ -1,5 +1,5 @@
 .DS_Store
-maps/
+maps
 js/arbor
 skills.js
 atlas.css
